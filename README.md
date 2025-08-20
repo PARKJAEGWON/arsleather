@@ -30,4 +30,5 @@ https://arsleatherkorea.com/
 ### 개발 보조 도구
 - Cursor AI
 
+### 📋 ERD
   <img width="1336" height="754" alt="erd" src="https://github.com/user-attachments/assets/294738bd-0530-4e20-839d-03c5f25b099a" />
