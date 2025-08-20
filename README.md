@@ -4,7 +4,7 @@ https://arsleatherkorea.com/
 
 # ARS Leather Korea 🛍️
 
-가죽 제품 전문 쇼핑몰 프로젝트입니다.
+쇼핑몰 프로젝트입니다.
 
 ## 🛠 사용 기술
 
