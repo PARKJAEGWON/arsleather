@@ -31,7 +31,8 @@ https://arsleatherkorea.com/
 - Cursor AI
 
 ## 📋 ERD
-  <img width="1336" height="754" alt="erd" src="https://github.com/user-attachments/assets/294738bd-0530-4e20-839d-03c5f25b099a" />
+
+<img width="1069" height="630" alt="erd" src="https://github.com/user-attachments/assets/3fe34455-3872-4612-b8f5-f010e23836ed" />
 
 ## 💡 주요 기능
 
