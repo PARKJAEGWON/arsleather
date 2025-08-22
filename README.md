@@ -13,7 +13,7 @@ https://arsleatherkorea.com/
 - Spring Boot 3.4.5
 - Spring Security + JWT
 - Spring Data JPA
-- MySQL 8.0
+- MySQL
 
 ### Frontend
 - JSP
