@@ -18,7 +18,7 @@ https://arsleatherkorea.com/
 ### Frontend
 - JSP
 - JavaScript
-- CSS3
+- CSS
 
 ### DevOps
 - Terraform: AWS EC2 인프라 프로비저닝 및 설정
