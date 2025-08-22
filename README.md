@@ -3,7 +3,7 @@
 https://arsleatherkorea.com/
 # 테스트용 계정 
 아이디 groo 비밀번호 a12345678
-<br>접속해서 테스트 해보세요!
+비밀번호 수정 테스트시 비밀번호 원상복구 부탁드립니다.
 # ARS Leather Korea 🛍️
 
 쇼핑몰 프로젝트입니다.
