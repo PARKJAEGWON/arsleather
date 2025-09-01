@@ -1,4 +1,4 @@
-<img width="1220" height="680" alt="5959" src="https://github.com/user-attachments/assets/306cd198-0404-41fb-8fa1-3f210bd7dfc3" /># arsleather 개인 프로젝트
+개인 프로젝트
 
 https://arsleatherkorea.com/
 # 테스트용 계정 
