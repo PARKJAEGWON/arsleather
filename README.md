@@ -49,6 +49,9 @@ https://arsleatherkorea.com/
   - 비밀번호 암호화 (BCrypt)
 - 회원 탈퇴 자동화 (스케줄러)
   - 탈퇴 신청 시 회원 상태가 8로 변경되며, 8 상태로 14일 후 자동 삭제(DB에서 회원 정보 제거), 14일 이내 로그인 시 복구 알림창이 나오고 <br>확인 시 회원 상태가 0으로 변경되어 복구됨
+   <img width="1225" height="677" alt="로그인" src="https://github.com/user-attachments/assets/2a0e3131-1889-461b-9674-7948827fb907" />
+<img width="1220" height="681" alt="로그인 2" src="https://github.com/user-attachments/assets/33664852-6b08-4fcf-a653-cdbb2c56454e" />
+
 
 ### 2. 결제/주문
 - 카드 결제 프로세스 
