@@ -7,7 +7,7 @@ https://arsleatherkorea.com/
 # ARS Leather Korea 🛍️
 
 쇼핑몰 프로젝트입니다.
-![Uploading 개요.png…]()
+<img width="1211" height="671" alt="개요" src="https://github.com/user-attachments/assets/28494db9-267f-45e1-9789-51e54d51f632" />
 
 
 ## 🛠 사용 기술
