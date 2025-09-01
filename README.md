@@ -85,7 +85,7 @@ https://arsleatherkorea.com/
 <img width="1232" height="683" alt="1AS" src="https://github.com/user-attachments/assets/3c4ff672-9ec8-4176-9abb-a2ffa81ff592" />
 <img width="1220" height="680" alt="5959" src="https://github.com/user-attachments/assets/c7d44147-c627-44e5-8947-af0b38d7b386" />
 
-## 트러블 슈팅 😵
+## 트러블 슈팅
 
 <img width="1229" height="685" alt="트1" src="https://github.com/user-attachments/assets/9e8e7fc1-f5b9-49eb-8543-6004a16b779c" />
 
