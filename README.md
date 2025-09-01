@@ -1,4 +1,4 @@
-# arsleather 개인 프로젝트
+<img width="1220" height="680" alt="5959" src="https://github.com/user-attachments/assets/306cd198-0404-41fb-8fa1-3f210bd7dfc3" /># arsleather 개인 프로젝트
 
 https://arsleatherkorea.com/
 # 테스트용 계정 
@@ -10,7 +10,7 @@ https://arsleatherkorea.com/
 <img width="1211" height="671" alt="개요" src="https://github.com/user-attachments/assets/28494db9-267f-45e1-9789-51e54d51f632" />
 
 
-## 🛠 사용 기술
+## 사용 기술
 
 ### Backend
 - Java 21
@@ -70,6 +70,8 @@ https://arsleatherkorea.com/
   - 주문 생성시 입금자명 저장 실제 주문번호 즉시 생성
 - 주문 상태 관리
   - 배송준비중/배송중/배송완료/구매확정/반품처리/주문취소
+<img width="1220" height="685" alt="W" src="https://github.com/user-attachments/assets/6ff8b060-5084-43dc-8a80-1ed87c09f3a4" />
+<img width="1221" height="689" alt="결제" src="https://github.com/user-attachments/assets/8295d3e9-795a-4dbd-8d01-9a288f5806aa" />
 
 ### 3. 관리자 기능
 - 회원 관리
@@ -81,3 +83,6 @@ https://arsleatherkorea.com/
 - 상품 관리
   - 상품 CRUD
   - 이미지 업로드
+<img width="1232" height="683" alt="1AS" src="https://github.com/user-attachments/assets/3c4ff672-9ec8-4176-9abb-a2ffa81ff592" />
+<img width="1220" height="680" alt="5959" src="https://github.com/user-attachments/assets/c7d44147-c627-44e5-8947-af0b38d7b386" />
+
