@@ -34,11 +34,21 @@ https://arsleatherkorea.com/
 ### 개발 보조 도구
 - Cursor AI
 
-## 📋 ERD
+## ERD
 
 <img width="1069" height="630" alt="erd" src="https://github.com/user-attachments/assets/3fe34455-3872-4612-b8f5-f010e23836ed" />
 
-## 💡 주요 기능
+## 아키텍처
+
+<img width="1230" height="690" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/2805746a-c0af-4887-be0c-8af17bb27b96" />
+
+
+## CI / CD 파이프라인
+
+<img width="1221" height="678" alt="ci 아키텍처" src="https://github.com/user-attachments/assets/11d1c5b4-67a3-4abd-b89c-95d8eff14abb" />
+
+
+## 주요 기능
 
 ### 1. 회원 관리
 - JWT 기반 인증
@@ -49,7 +59,7 @@ https://arsleatherkorea.com/
   - 비밀번호 암호화 (BCrypt)
 - 회원 탈퇴 자동화 (스케줄러)
   - 탈퇴 신청 시 회원 상태가 8로 변경되며, 8 상태로 14일 후 자동 삭제(DB에서 회원 정보 제거), 14일 이내 로그인 시 복구 알림창이 나오고 <br>확인 시 회원 상태가 0으로 변경되어 복구됨
-   <img width="1225" height="677" alt="로그인" src="https://github.com/user-attachments/assets/2a0e3131-1889-461b-9674-7948827fb907" />
+<img width="1225" height="677" alt="로그인" src="https://github.com/user-attachments/assets/2a0e3131-1889-461b-9674-7948827fb907" />
 <img width="1220" height="681" alt="로그인 2" src="https://github.com/user-attachments/assets/33664852-6b08-4fcf-a653-cdbb2c56454e" />
 
 
