@@ -87,7 +87,7 @@ https://arsleatherkorea.com/
 
 ## 트러블 슈팅
 
-<img width="1229" height="685" alt="트1" src="https://github.com/user-attachments/assets/9e8e7fc1-f5b9-49eb-8543-6004a16b779c" />
+<img width="1233" height="691" alt="126" src="https://github.com/user-attachments/assets/a9340c2c-08fc-47e9-8f96-73b6ce7cc6ae" />
 
 <img width="1229" height="682" alt="트2" src="https://github.com/user-attachments/assets/26ff3873-840c-45df-b130-e0077418859f" />
 
